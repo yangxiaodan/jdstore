@@ -43,6 +43,7 @@ gem 'qiniu-rs'
 gem 'figaro'
 gem 'ransack'
 gem 'seo_helper'
+gem "intercom-rails"
 
 group :development, :test do
   gem 'pry'
